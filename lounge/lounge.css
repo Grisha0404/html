@@ -1,0 +1,68 @@
+body{
+	font-size: small;
+	font-family: Veranda, Helventica, Arial, sans-serif;
+	line-height: 1.6em;
+
+}
+h1, h2{
+	color: #007e7e;
+}
+h1{
+	font-size: 150%;
+}
+h2{
+	font-size: 130%;
+}
+#guarantee {
+	font-style: italic;
+	line-height: 1.9em;
+	color: #444444;
+	font-family: georgia, "times New Roman", times, serif;
+	border-color: black;
+	border-width: 3px;
+	border-style: dashed;
+	border-color: white;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	padding: 25px;
+	padding-left: 80px;
+	margin: 30px;
+	margin-right: 250px;
+	background-color: #a7cece;
+	background-image: url(images/background.gif);
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+#elixir{
+	border: thin solid #007e7e;
+	width: 200px;
+	padding: 0px 20px 20px 20px;
+	margin-left: 20px;
+	text-align: center;
+	background-image: url(images/cocktail.gif);
+	background-repeat: repeat-x;
+	line-height: 1;
+	float: right;
+}
+#elixir h2 {
+	color: black;
+}
+#elixir h3{
+	color: #d12c47;
+}
+.cd {
+	font-style: italic;
+}
+.artisr {
+	font-weight: bold;
+}
+#elixir a:link {
+	color: #007e7e;
+}
+#elixir a:visited {
+	color: #333333;
+}
+#elixir a:hover {
+	color: #0d5353;
+	background: #f88396;
+}
